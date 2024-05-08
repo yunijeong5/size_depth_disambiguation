@@ -24,8 +24,8 @@ target/
 dist/
 # external/
 ckpts/
-output/
-results/
+# output/
+# results/
 # input/
 # precomputed_data/
 # weights/
@@ -51,7 +51,7 @@ Thumbs.db
 # Large media files
 *.mp4
 *.png
-*.jpg
+# *.jpg
 *.tiff
 *.avi
 *.flv
@@ -60,9 +60,9 @@ Thumbs.db
 
 # data
 *.txt
-*.json
+# *.json
 *.tsv
-*.csv
+# *.csv
 *.seq
 *.ply
 
