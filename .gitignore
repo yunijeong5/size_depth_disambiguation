@@ -70,7 +70,7 @@ Thumbs.db
 *.tfevents*
 
 # model
-*.pth
+# *.pth
 *.tar
 
 # result

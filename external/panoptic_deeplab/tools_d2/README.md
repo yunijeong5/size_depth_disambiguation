@@ -255,7 +255,7 @@ COCO models are trained with ImageNet pretraining.
 <td align="center"><a href="https://drive.google.com/file/d/1FVj1amFkkbwL9RTba2oUYcwlD1JJMx-T/view?usp=sharing
 ">model</a></td>
 </tr>
- <tr><td align="left"><a href="tools_d2/configs/COCO-PanopticSegmentation/panoptic_deeplab_H_48_os16_mg124_poly_200k_bs64_crop_640_640_coco_dsconv.yaml">Panoptic-DeepLab 6666 (DSConv)</a></td>
+ <tr><td align="left"><a href="tools_d2/configs/COCO-PanopticSegmentation/panoptic_deeplab_H_48_os16_mg124_poly_200k_bs64_crop_640_640_coco_dsconv.yaml">Panoptic-DeepLab (DSConv) LINKED IN SIZEDEPTH PAPER</a></td>
 <td align="center">HRNet-48</td>
 <td align="center">640&times;640</td>
 <td align="center"> 37.8 </td>
